@@ -1,0 +1,38 @@
+2023-01-17 21:52:24,806 :INFO : test_e2e :click on the checkout button
+2023-01-17 21:52:25,232 :INFO : test_e2e :Entering county name as india
+2023-01-17 21:52:30,713 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-17 21:55:45,622 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 21:55:46,126 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 21:55:46,126 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 22:00:41,220 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 22:00:41,978 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 22:00:41,978 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 22:00:45,670 :INFO : test_e2e :click on the checkout button
+2023-01-17 22:00:45,913 :INFO : test_e2e :Entering county name as india
+2023-01-17 22:00:51,467 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-17 22:12:52,404 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 22:12:52,864 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 22:12:52,864 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-17 22:12:56,399 :INFO : test_e2e :click on the checkout button
+2023-01-17 22:12:56,786 :INFO : test_e2e :Entering county name as india
+2023-01-17 22:13:02,238 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-18 22:44:22,225 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-19 14:10:55,931 :INFO : test_formSubmission :Verify the success message×
+Success! The Form has been submitted successfully!.
+2023-01-19 14:10:58,952 :INFO : test_e2e :click on the checkout button
+2023-01-19 14:10:59,246 :INFO : test_e2e :Entering county name as india
+2023-01-19 14:11:04,637 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
