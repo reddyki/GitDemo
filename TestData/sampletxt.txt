@@ -1,0 +1,7 @@
+alphabets
+a
+b
+g
+h
+j
+k
