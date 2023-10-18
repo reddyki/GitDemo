@@ -1,7 +1,7 @@
 alphabets
-a
-b
-g
+ppoo
+oooo
+dddd
 h
 j
 k
